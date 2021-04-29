@@ -1,1 +1,2 @@
 aaa
+master add newLine
