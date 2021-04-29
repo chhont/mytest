@@ -1,4 +1,5 @@
 aaa
+
 master add newLine
 new_branch   add new Line
 new_branch add new Line
